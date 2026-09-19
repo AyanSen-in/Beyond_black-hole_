@@ -1,0 +1,15 @@
+passsword manager program 
+user :
+1- dictionary
+2- loops 
+3- conditions 
+4- module : random 
+5- file handelling 
+
+
+website : password 
+password saved always anytime you run this . 
+
+random module 
+file read/write 
+real world 

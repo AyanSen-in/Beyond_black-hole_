@@ -1,0 +1,9 @@
+conditional 
+loop= 
+dictionary = store daata
+
+teacher :
+1-add student
+2- view all students 
+3- check results 
+4-exit
